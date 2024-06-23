@@ -1,0 +1,18 @@
+[
+	{
+		folder: "/music/",
+		tracks:
+		[
+			{normal: "Bank-Amb.ogg", action: "Bank-Act.ogg", death: "death.ogg", high_action: "Bank-Hi.ogg"},
+			{normal: "Bath-Amb.ogg", action: ["Bath-Act.ogg", "Bath-Act1.ogg"], death: "death.ogg", high_action: "Bath-Hi.ogg"},
+			{normal: "Batt-Amb.ogg", action: ["Batt-Act.ogg", "Batt-Act1.ogg"], death: "death.ogg", high_action: "Batt-Hi.ogg"},
+			{normal: "Disp-Amb.ogg", action: ["Disp-Act.ogg", "Disp-Act1.ogg"], death: "death.ogg", high_action: "Disp-Hi.ogg"},
+			{normal: "Hoka-Amb.ogg", action: ["Hoka-Act.ogg", "Hoka-Act1.ogg"], death: "death.ogg", high_action: "Hoka-Hi.ogg"},
+			{normal: "Koku-Amb.ogg", action: ["Koku-Act.ogg", "Koku-Act1.ogg"], death: "death.ogg", high_action: "Koku-Hi.ogg"},
+			{normal: "Lite-Amb.ogg", action: ["Lite-Act.ogg", "Lite-Act1.ogg"], death: "death.ogg", high_action: "Lite-Hi.ogg"},
+			{normal: "Pent-Amb.ogg", action: ["Pent-Act.ogg", "Pent-Act1.ogg"], death: "death.ogg", high_action: "Pent-Hi.ogg"},
+			{normal: "Ship-Amb.ogg", action: ["Ship-Act.ogg", "Ship-Act1.ogg"], death: "death.ogg", high_action: "Ship-Hi.ogg"},
+		],
+	
+	}
+]
